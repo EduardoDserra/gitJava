@@ -1,0 +1,2 @@
+user.nome "eduardo"
+user.email "eduardodserra@gmail.com"
